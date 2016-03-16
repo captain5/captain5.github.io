@@ -16,7 +16,7 @@ description: >
   hi!boys.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://captain5.github.com" # the base hostname & protocol for your site
-twitter_username: beikewz
+twitter_username: captain5abc
 github_username:  captain5
 
 # Build settings
