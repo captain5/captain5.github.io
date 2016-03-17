@@ -17,5 +17,3 @@ permalink: /mi2/
 
 
 
-{% include icon-github.html username="jekyll" %} 
-
