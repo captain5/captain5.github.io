@@ -13,8 +13,7 @@ email: captain5abc@gmail.com
 #line in _config.yml. It will appear in your document head meta (for
 #Google search results) and in your feed.xml site description.
 description: > 
-  让每个人都能享受科技带来的乐趣！
-      只要人人都能献出一点爱，世界将会变成美好的人间！
+  让每个人都能享受科技带来的乐趣！只要人人都能献出一点爱，世界将会变成美好的人间！
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://captain5.github.com" # the base hostname & protocol for your site
 twitter_username: captain5abc
