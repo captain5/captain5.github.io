@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mi
-permalink: /mi/
+permalink: /mi2/
 ---
 
 宽带测速：
