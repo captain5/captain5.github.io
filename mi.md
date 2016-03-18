@@ -15,7 +15,6 @@ permalink: /mi2/
 
 [上海电信测速](http://sh.189.cn/support/netreport/)    
 
-[360宽带测速软件独立版](https://pan.baidu.com/s/1pJZdbR1)    
+[360宽带测速(2.7MB)](https://pan.baidu.com/s/1pJZdbR1)    
 
->这是从360 安全卫士 里面提取出来的 360网络测速器 ，你可以不需要安装360安全卫士就可以使用。
 
