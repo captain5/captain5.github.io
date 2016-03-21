@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. 
+2016-03-21：现实扭曲力场
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
