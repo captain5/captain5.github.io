@@ -7,7 +7,7 @@ permalink: /link/
 【宽带测速】
 ============
 
-<table><tr><td>[Speedtest.net](http://www.speedtest.net/)</td></tr></table>
+<table><tr><td><a href=http://www.speedtest.net/>Speedtest.net</a></td></tr></table>
  
 
 [北京联通宽带测速](http://cs1.bbn.com.cn:8800/gzweb/)    
