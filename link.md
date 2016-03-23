@@ -6,7 +6,7 @@ permalink: /link/
 
 【常用】
 ============
-<table>
+<table cellpadding=1>
 <caption>
 <tr>
 <td><a href="https://www.baidu.com/" target="_blank">百度</a></td>
@@ -16,9 +16,9 @@ permalink: /link/
 </tr>
 </table>
  
- 【学习】
+【学习】
 ============
-<table>
+<table cellpadding=1>
 <tr>
 <td><a href="http://www.w3school.com.cn/" target="_blank">w3school</a></td>
 <td><a href="http://www.liaoxuefeng.com/" target="_blank">廖雪峰</a></td>
