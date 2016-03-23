@@ -9,6 +9,8 @@ permalink: /link/
 
 <table>
 <tr><td><a href="http://www.speedtest.net/" target="_blank">Speedtest.net</a></td>
+<td><a href="http://www.speedtest.net/" target="_blank">Speedtest.net</a></td>
+<td><a href="http://www.speedtest.net/" target="_blank">Speedtest.net</a></td>
 </tr>
 </table>
  
