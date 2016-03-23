@@ -7,7 +7,7 @@ permalink: /link/
 【常用】
 ============
 <table cellpadding=1>
-<caption>
+<caption>常用</caption>
 <tr>
 <td><a href="https://www.baidu.com/" target="_blank">百度</a></td>
 <td><a href="http://yun.baidu.com/" target="_blank">百度云</a></td>
@@ -15,7 +15,7 @@ permalink: /link/
 <td><a href="http://translate.google.cn/" target="_blank">谷哥翻译</a></td>
 </tr>
 </table>
- 
+
 【学习】
 ============
 <table cellpadding=1>
