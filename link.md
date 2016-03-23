@@ -4,7 +4,7 @@ title: Link
 permalink: /link/
 ---
 
-【宽带测速】
+【常用链接】
 ============
 
 <table>
