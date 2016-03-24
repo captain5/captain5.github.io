@@ -4,12 +4,12 @@ Captain5's Blog
 
 建站参考自：
 
-+https://pages.github.com/
+* https://pages.github.com/
 
-+每个人都应该有一个Jekyll博客
+* 每个人都应该有一个Jekyll博客
 http://www.tuicool.com/articles/ruMVjyN
 
-+Windows下运行jeklly,并在本地浏览Bootstrap文档
+* Windows下运行jeklly,并在本地浏览Bootstrap文档
 http://blog.csdn.net/u012844814/article/details/28869997
 
 Portable Jekyll
