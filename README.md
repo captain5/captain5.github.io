@@ -1,5 +1,5 @@
-# captain5.github.io
-Captain5's Blog
+# Captain5's Blog
+
 
 
 建站参考自：
