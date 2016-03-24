@@ -14,8 +14,8 @@ http://blog.csdn.net/u012844814/article/details/28869997
 
 Portable Jekyll
 ==============
-在windows下安装jeklly ，Portable Jekyll for Windows 
-（http://www.madhur.co.in/blog/2013/07/20/buildportablejekyll.html ）
+[指导](http://www.madhur.co.in/blog/2013/07/20/buildportablejekyll.html) 
+在windows下安装jeklly ，Portable Jekyll for Windows [Download](https://github.com/madhur/PortableJekyll/archive/master.zip)
 下载完成后直接解压到任意路径即可。在管理员CMD下进入解压的portable Jekyll所对应的路径运行setpath.cmd即可。
 
 The portable version contains everything which is required to run Jekyll v3.1.1 on Windows:
