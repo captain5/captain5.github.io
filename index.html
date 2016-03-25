@@ -19,9 +19,8 @@ layout: default
         <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
         </h3>
-        <!-- {{ post.date | date: "%b %-d, %Y" }} -->
+        {{ post.date | date: "%b %-d, %Y" }}
            <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
-             
       </li>
     {% endfor %}
   </ul>
