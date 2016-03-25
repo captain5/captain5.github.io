@@ -4,8 +4,10 @@ title:  "再别康桥"
 date:   2016-03-25 17:09:31 +0800
 categories: word
 ---
-再别康桥
----
+![cambridge](/img/cambridge.jpg)
+
+-------徐志摩
+
 轻轻的我走了，
 
 正如我轻轻的来；
