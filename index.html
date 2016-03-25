@@ -16,8 +16,8 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
-        {{ post.date | date: "%b %-d, %Y" }}</h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+        {{ post.date | date: "%b %-d, %Y" }}
            <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
              
       </li>
