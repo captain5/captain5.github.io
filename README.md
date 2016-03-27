@@ -12,6 +12,7 @@ http://www.tuicool.com/articles/ruMVjyN
 * Windows下运行jeklly,并在本地浏览Bootstrap文档
 http://blog.csdn.net/u012844814/article/details/28869997
 
+* Markdown语法及规范https://www.douban.com/note/485099162/
 Portable Jekyll
 ==============
 在windows下安装jeklly ，Portable Jekyll for Windows [指导](http://www.madhur.co.in/blog/2013/07/20/buildportablejekyll.html)    And [Download](https://github.com/madhur/PortableJekyll/archive/master.zip)
