@@ -5,6 +5,7 @@ date:   2016-03-16 17:09:31 +0800
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. 
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
