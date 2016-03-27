@@ -4,6 +4,8 @@ title:  "Markdown语法及规范"
 date:   2016-03-27 15:09:31 +0800
 categories: markdown
 ---
+```html
+<div>
 <table><tr><td>
 Markdown语法及规范
   1. 段落与段落之间空一行表示。分节的时候可以多空一行。单个回车视为空格，连续回车才是换行。（行尾加两个空格，可以段内强制换行，一般用户可以忽略。）
@@ -38,3 +40,7 @@ Markdown语法及规范
   
   参考：[豆瓣](https://www.douban.com/note/485099162/)
 </td></tr></table>
+</div>
+
+
+'''
