@@ -14,7 +14,7 @@ Markdown语法及规范
      “#”之后最好加一个空格，这在md单向标记中都最好使用
       也可以把”=“写在标题（H1）下面的一行，表示上面一行的文字为标题，”-“写在下面便是小标题或是节标题（H2）。
 
-  4. 加粗，斜体：'**加粗**，*斜体*，***粗斜体***'
+  4. 加粗，斜体：“**加粗**，*斜体*，***粗斜体***”
   
   5. 引用：>
   
@@ -52,13 +52,13 @@ Markdown语法及规范
       
       图片链接：
       
-      [![][jane-eyre-pic］[jane-eyre-douban]
+      >[![][jane-eyre-pic］[jane-eyre-douban]
       
-      [jane-eyre-pic]: http://img3.douban.com/mpic/s1108264.jpg
+      >[jane-eyre-pic]: http://img3.douban.com/mpic/s1108264.jpg
       
-      [jane-eyre-douban]: http://book.douban.com/subject/1141406/
+      >[jane-eyre-douban]: http://book.douban.com/subject/1141406/
       
-      若要在图片下线是说明：{ImagCap}说明{/ImgCap}
+      若要在图片下线是说明：>{ImagCap}说明{/ImgCap}
       
   12. 跟其他的编程语言一样，利用转意字符”/“就可以输出”[“这类符号
   
