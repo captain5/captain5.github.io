@@ -6,6 +6,7 @@ categories: jekyll
 ---
 
 送别
+
 李叔同
 
 长亭外,古道边,芳草碧连天
@@ -23,6 +24,8 @@ categories: jekyll
 天之涯,地之角,知交半零落
 
 一壶浊洒尽余欢,今宵别梦寒
+
+
 
 长亭外 Beyond the distant pavilion 
 
@@ -66,4 +69,4 @@ Version 2:
 今宵别梦寒 I wait for a chilly farewell dream tonight.
 
 
-参考：[百度](http://zhidao.baidu.com/link?url=rrkWrjXJAQOWjNWJE4-O_m92g1tTYXZKdjMzV_Uj8ZAxOV4uNr9Vodv3la6nAw3NldSbMCfDdMl0-HDNoJl1x_)
+参考：[百度知道](http://zhidao.baidu.com/link?url=rrkWrjXJAQOWjNWJE4-O_m92g1tTYXZKdjMzV_Uj8ZAxOV4uNr9Vodv3la6nAw3NldSbMCfDdMl0-HDNoJl1x_)
