@@ -23,9 +23,7 @@ categories: jekyll
 
 天之涯,地之角,知交半零落
 
-一壶浊洒尽余欢,今宵别梦寒
-
-
+一壶浊洒尽余欢,今宵别梦寒     
 
 长亭外 Beyond the distant pavilion 
 
@@ -46,8 +44,7 @@ Dying flute notes linger still
 一斛浊酒尽余欢 With a scoop of thick wine  
 Let's enjoy what joy remains 
 
-今宵别梦寒 Tonight's cold dreams shall be held at bay 
-
+今宵别梦寒 Tonight's cold dreams shall be held at bay     
 
 Version 2: 
 
