@@ -4,7 +4,7 @@ title:  "Markdown语法及规范"
 date:   2016-03-27 15:09:31 +0800
 categories: markdown
 ---
-```html
+<html>
 <div>
 <table><tr><td>
 Markdown语法及规范
@@ -43,4 +43,4 @@ Markdown语法及规范
 </div>
 
 
-'''
+</html>
