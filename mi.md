@@ -15,6 +15,6 @@ permalink: /mi2/
 
 [上海电信测速](http://sh.189.cn/support/netreport/)    
 
-[360宽带测速(2.7MB)](https://pan.baidu.com/s/1pJZdbR1)    
+[10000管家测速](http://bj.swok.cn/)    
 
 
