@@ -1,6 +1,6 @@
 ---
 layout: page
-title: motto
+title: Motto
 permalink: /motto/
 ---
 * 极简生活!
