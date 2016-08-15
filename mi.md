@@ -19,7 +19,6 @@ permalink: /mi2/
 
 
 【常用连接】
-<p>
 <table cellpadding=5 border=0 cellspacing="0" width=100%>
 <tr><td><a href="http://www.mi.com" target="_blank">小米官网</a></td></tr>
 <tr><td><a href="http://www1.miwifi.com" target="_blank">小米路由器官网</a></td></tr>
