@@ -24,7 +24,7 @@ The portable version contains everything which is required to run Jekyll v3.1.1 
 [Jekyll Wiki](https://github.com/madhur/PortableJekyll/wiki)
 
 ####basic command
-*jekyll new myblog  创建一个站点
-*cd myblog
-*jekyll serve  开启服务器，在浏览器输入 127.0.0.1:4000访问
+* jekyll new myblog  创建一个站点
+* cd myblog
+* jekyll serve  开启服务器，在浏览器输入 127.0.0.1:4000访问
 
