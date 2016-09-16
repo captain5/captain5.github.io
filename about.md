@@ -21,3 +21,4 @@ permalink: /about/
 
 长风破浪会有时，直挂云帆济沧海。
 
+[相信未来](http://www.cnblogs.com/v5captain/p/5876829.html)
