@@ -28,3 +28,6 @@ The portable version contains everything which is required to run Jekyll v3.1.1 
 * cd myblog
 * jekyll serve  开启服务器，在浏览器输入 127.0.0.1:4000访问
 
+MaHua markdown文档在线编辑器
+
+http://mahua.jser.me/
