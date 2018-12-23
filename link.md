@@ -25,7 +25,8 @@ permalink: /link/
 * [Stackoverflow](http://stackoverflow.com/)
 
 
-###啄木鸟社区：
+啄木鸟社区：
+---------
 * 每天至少挤一刻钟, 认真解答邮件列表/IRC/QQ群中初学者问题!
 * 每周至少挤两小时, 整理自己的新学将成功或失败体验分享出来!
 * 通过Blog/Wiki/邮件列表/个人网站/weibo ...
