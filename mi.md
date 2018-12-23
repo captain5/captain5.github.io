@@ -20,14 +20,10 @@ permalink: /mi2/
 
 【常用连接】
 ===========
-[小米网](http://www.mi.com)
-
 [小米路由器官网](http://www1.miwifi.com)
 
 [小米路由器官方论坛](http://bbs.xiaomi.cn/f-354)
 
-[【U盘刷机】小米路由器变砖之后如何自救](http://bbs.xiaomi.cn/t-11600650)
+[[U盘刷机]小米路由器变砖之后如何自救](http://bbs.xiaomi.cn/t-11600650)
 
 [小米路由器青春版刷机教程](http://bbs.xiaomi.cn/t-11614239)
-
-[小米天猫店](https://xiaomi.tmall.com)
