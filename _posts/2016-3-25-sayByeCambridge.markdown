@@ -6,7 +6,8 @@ categories: word
 ---
 ![cambridge](/img/cambridge.jpg)
 
--------徐志摩
+徐志摩
+-------
 
 轻轻的我走了，
 

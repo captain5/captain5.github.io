@@ -1,9 +1,25 @@
 ---
 layout: post
 title:  "Markdown语法及规范"
-date:   2016-03-27 15:09:31 +0800
+date:   2016-03-07 15:09:31 +0800
 categories: markdown
 ---
+
+```javascript
+    A First Level Header
+    ====================
+    A Second Level Header
+    ---------------------
+    列表
+    - Bird
+    + Bird
+    * Bird
+    链接
+    [MaHua markdown文档在线编辑器](http://mahua.jser.me/)
+```
+
+[MaHua markdown文档在线编辑器](http://mahua.jser.me/)
+
 Markdown语法及规范
 
   1. 段落与段落之间空一行表示。分节的时候可以多空一行。单个回车视为空格，连续回车才是换行。（行尾加两个空格，可以段内强制换行，一般用户可以忽略。）
@@ -63,4 +79,7 @@ Markdown语法及规范
       
   12. 跟其他的编程语言一样，利用转意字符"\\"就可以输出"["这类符号
   
-  参考：[豆瓣](https://www.douban.com/note/485099162/)
+  参考：
+  [豆瓣](https://www.douban.com/note/485099162/)
+
+  [Markdown: Basics](https://www.appinn.com/markdown/basic.html)
