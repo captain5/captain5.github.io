@@ -3,23 +3,15 @@ layout: default
 ---
 
 <div class="home">
-  <!--
-  <h1 class="page-heading">Useful Link</h1>
-  <table cellpadding=10><tr><td>
-    <p><a href="https://github.com/captain5"  target="_black">Captain5 GitHub</a></p></td>
-    <td><p><a href="https://jekyllrb.com/"  target="_black">jekyll</a></p></td>
-    <td><p><a href="https://analytics.google.com"  target="_black">Google Analysis</a></p>
-     </td></tr>
-  </table>
--->
   <!-- <h1 class="page-heading">boot</h1> -->
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
       <li>
         <h3>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+         --{{ post.date | date: "%b %-d, %Y" }}
         </h3>
-        {{ post.date | date: "%b %-d, %Y" }}
+        
            <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
       </li>
     {% endfor %}

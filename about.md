@@ -24,4 +24,4 @@ permalink: /about/
 
 [相信未来 食指](http://www.cnblogs.com/v5captain/p/5876829.html)
 
-[cnblogs博客](http://www.cnblogs.com/v5captain/)
+[船长的cnblogs博客](http://www.cnblogs.com/v5captain/)
