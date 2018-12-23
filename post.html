@@ -7,7 +7,7 @@ permalink: /post/
     <!-- <h1 class="page-heading">boot</h1> -->
     <ul class="post-list">
       {% for post in site.posts %}
-        <li>
+        <li style=" height: 35px;">
           <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>         
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>  
