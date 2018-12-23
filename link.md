@@ -4,9 +4,28 @@ title: Link
 permalink: /link/
 ---
 
-[世界]
+* [博客园](http://www.cnblogs.com/)
+* [Itpub](http://www.itpub.net/)
+* [Chinaitlab](http://www.chinaitlab.com/)
+* [51CTO](http://www.51cto.com/)
+* [CSDN](http://www.csdn.net/)
+* [ChinaUnix](http://www.chinaunix.net/)
 
-##啄木鸟社区：
+* [w3school](http://www.w3school.com.cn/)
+* [廖雪峰](http://www.liaoxuefeng.com/)
+* [mybook多看](http://www.duokan.com/u/)
+* [Java API](http://docs.oracle.com/javase/7/docs/api/)
+* [ITeye](http://www.iteye.com/)
+* [chinaitlab](http://www.chinaitlab.com/)
+
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+
+* [Google Groups](https://groups.google.com/forum/#!forum/python-cn)
+* [Woodpecker](http://wiki.woodpecker.org.cn/)
+* [Stackoverflow](http://stackoverflow.com/)
+
+
+###啄木鸟社区：
 * 每天至少挤一刻钟, 认真解答邮件列表/IRC/QQ群中初学者问题!
 * 每周至少挤两小时, 整理自己的新学将成功或失败体验分享出来!
 * 通过Blog/Wiki/邮件列表/个人网站/weibo ...
