@@ -5,40 +5,6 @@ permalink: /link/
 ---
 
 [世界]
-<p>
-<table cellpadding=5 border=1 cellspacing="0" width=100%>
-  <tr><td><a href="http://www.cnblogs.com/" target="_blank">博客园</a></td>
-  <td><a href="http://www.itpub.net/" target="_blank">Itpub</a></td>
-  <td><a href="http://www.chinaitlab.com/" target="_blank">Chinaitlab</a></td>
-  <td><a href="http://www.51cto.com/" target="_blank">51CTO</a></td>
-  <td><a href="http://www.csdn.net/" target="_blank">CSDN</a></td>
-  <td><a href="http://www.chinaunix.net/" target="_blank">ChinaUnix</a></td>
-  </tr>
-</table>
-
-[IT站]
-<table cellpadding=5 border=1 cellspacing="0" width=100%>
-  <tr><td><a href="http://www.w3school.com.cn/" target="_blank">w3school</a></td>
-  <td><a href="http://www.liaoxuefeng.com/" target="_blank">廖雪峰</a></td>
-  <td><a href="http://www.duokan.com/u/mybook" target="_blank">多看</a></td>
-  <td><a href="http://docs.oracle.com/javase/7/docs/api/" target="_blank">Java API</a></td>
-  <td><a href="http://www.iteye.com/" target="_blank">ITeye</a></td>
-  <td><a href="http://www.chinaitlab.com/" target="_blank">chinaitlab</a></td>
-  </tr>
- 
-</table>
-<p>
-<a href="http://docs.python-guide.org/en/latest//" target="_blank">The Hitchhiker’s Guide to Python!</a>
-
-
-<p>
-<table cellpadding=5 border=1 cellspacing="0" width=100%>
-  <tr><td><a href="https://groups.google.com/forum/#!forum/python-cn" target="_blank">Google Groups</a></td>
-  <td><a href="http://wiki.woodpecker.org.cn/" target="_blank">Woodpecker</a></td>
-  <td><a href="http://stackoverflow.com/" target="_blank">Stackoverflow</a></td>
-  </tr>
-</table>
-
 
 ##啄木鸟社区：
 * 每天至少挤一刻钟, 认真解答邮件列表/IRC/QQ群中初学者问题!
