@@ -4,7 +4,7 @@ title: Link
 permalink: /link/
 ---
 
-##世界
+[世界]
 <p>
 <table cellpadding=5 border=1 cellspacing="0" width=100%>
   <tr><td><a href="http://www.cnblogs.com/" target="_blank">博客园</a></td>
@@ -16,7 +16,7 @@ permalink: /link/
   </tr>
 </table>
 
-##IT站
+[IT站]
 <table cellpadding=5 border=1 cellspacing="0" width=100%>
   <tr><td><a href="http://www.w3school.com.cn/" target="_blank">w3school</a></td>
   <td><a href="http://www.liaoxuefeng.com/" target="_blank">廖雪峰</a></td>
