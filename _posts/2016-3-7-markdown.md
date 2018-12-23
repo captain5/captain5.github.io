@@ -6,19 +6,25 @@ categories: markdown
 ---
 
 ```javascript
+    标题：
     A First Level Header
     ====================
     A Second Level Header
     ---------------------
-    列表
+    也可直接写文字，不标记几级标题。
+
+    列表：
     - Bird
     + Bird
     * Bird
-    链接
+
+    链接：
     [MaHua markdown文档在线编辑器](http://mahua.jser.me/)
 ```
 
-[MaHua markdown文档在线编辑器](http://mahua.jser.me/)
++ [MaHua markdown文档在线编辑器](http://mahua.jser.me/)
++ [Markdown: Basics](https://www.appinn.com/markdown/basic.html)
++ [Markdown 11种基本语法](https://www.jianshu.com/p/d7a547926668)
 
 Markdown语法及规范
 
@@ -81,5 +87,3 @@ Markdown语法及规范
   
   参考：
   [豆瓣](https://www.douban.com/note/485099162/)
-
-  [Markdown: Basics](https://www.appinn.com/markdown/basic.html)
