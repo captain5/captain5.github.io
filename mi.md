@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Mi
 permalink: /mi2/
 ---
 
